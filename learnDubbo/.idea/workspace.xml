@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f1a9ab8-d9e5-4bfa-95cc-7925c3ca1a8c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/com-dubbo-learn-spi/target/" />
+    <ignored path="$PROJECT_DIR$/com-dubbo-learn-web/target/" />
+    <ignored path="$PROJECT_DIR$/com-dubbo-learn-service/target/" />
+    <ignored path="$PROJECT_DIR$/com-dubbo-learn-facade/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RandomLoadBalance.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/RandomLoadBalance.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoundRobinLoadBalance.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/RoundRobinLoadBalance.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-293">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsistentHashLoadBalance.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/ConsistentHashLoadBalance.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeastActiveLoadBalance.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/LeastActiveLoadBalance.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clazz</find>
+      <find>No such extension</find>
+      <find>name</find>
+      <find>findAnnotationName</find>
+      <find>cachedActivates</find>
+      <find>cachedNames</find>
+      <find>extensionClasses</find>
+      <find>loadExtensionClasses</find>
+      <find>cachedAdaptiveClass</find>
+      <find>getExtensionClasses</find>
+      <find>random</find>
+      <find>findException</find>
+      <find>createAdaptiveExtensionClassCode</find>
+      <find>createAdaptiveExtensionClass</find>
+      <find>getAdaptiveExtensionClass</find>
+      <find>onApplicationEvent</find>
+      <find>ServiceBean</find>
+      <find>Servi</find>
+      <find>getDe</find>
+      <find>toS</find>
+      <find>defaults</find>
+      <find>doExportUrls</find>
+      <find>url</find>
+      <find>setLoggerAdapter</find>
+      <find>LOGGERS</find>
+      <find>le</find>
+      <find>invoked</find>
+      <find>scheduledExecutorService</find>
+      <find>ref</find>
+      <find>props</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\boot\irdms\learnDubbo</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/test/java/com/dubbo/learn/JavaSpi.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/test/java/com/dubbo/learn/spi/java/JavaSpi.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/test/java/com/dubbo/learn/spi/java/Hilary.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/test/java/com/dubbo/learn/spi/java/MarcoRubio.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/java/learn/spi/java/Robot.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/webapp/META-INF/services/learn.spi.java.Robot" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/java/learn/spi/java/MarcoRubio.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/java/learn/spi/java/Hilary.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/java/learn/spi/java/SayHello.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/services/com.dubbo.learn.java.SayHello" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/test/learn/spi/java/SayHelloTest.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/resources/META-INF.dubbo/com.dubbo.learn.java.SayHello" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/com/dubbo/learn/java/SayHello.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/com/dubbo/learn/java/Hilary.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/resources/META-INF/dubbo/com.dubbo.learn.java.SayHello" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/com/dubbo/learn/java/MarcoRubio.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/test/learn/spi/dubbo/SayHelloTest.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/resources/dubbo/dubbo-config.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/service/makeCar.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/service/US.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/resources/dubbo/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/resources/dubbo/dubbo-provider.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-facade/src/main/java/com/dubbo/learn/facade/MakeCar.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/java/com/dubbo/learn/web/dubbo/Consumer.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/resources/dubbo/dubbo-provider.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/resources/dubbo/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/src/main/resources/dubbo/dubbo-config.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/pom.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-web/pom.xml" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/dubbo/Provider.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/test/java/com/dubbo/learn/AppTest.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/service/Japan.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/App.java" />
+        <option value="$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/com/dubbo/learn/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com-dubbo-learn-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com-dubbo-learn-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1366" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="com-dubbo-learn-spi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="com-dubbo-learn-spi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="com-dubbo-learn-spi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="com-dubbo-learn-spi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnDubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnDubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="com-dubbo-learn-spi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27242154" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dubbo.learn.facade" />
+      <recent name="learn.spi.dubbo" />
+      <recent name="com.dubbo.learn.spi.java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\boot\irdms\learnDubbo\com-dubbo-learn-web\src\main\resources" />
+      <recent name="D:\boot\irdms\learnDubbo\com-dubbo-learn-service\src\main\resources\spring" />
+      <recent name="D:\boot\irdms\learnDubbo\com-dubbo-learn-service\src\main\resources" />
+      <recent name="D:\boot\irdms\learnDubbo\com-dubbo-learn-spi\src\main\resources\META-INF\dubbo" />
+      <recent name="D:\boot\irdms\learnDubbo\com-dubbo-learn-spi\src\main\resources\a\b" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.shouldAnswerWithTrue">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.learn.web.dubbo.Consumer" />
+      <module name="com-dubbo-learn-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.learn.web.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.learn.dubbo.Provider" />
+      <module name="com-dubbo-learn-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.learn.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-dubbo-learn-spi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.dubbo.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.learn.AppTest" />
+      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SayHelloTest.fac" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-dubbo-learn-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.spi.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="learn.spi.dubbo" />
+      <option name="MAIN_CLASS_NAME" value="learn.spi.dubbo.SayHelloTest" />
+      <option name="METHOD_NAME" value="fac" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SayHelloTest.sayHello (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-dubbo-learn-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn.spi.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="learn.spi.dubbo" />
+      <option name="MAIN_CLASS_NAME" value="learn.spi.dubbo.SayHelloTest" />
+      <option name="METHOD_NAME" value="sayHello" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.run" />
+      <item itemvalue="JUnit.SayHelloTest.sayHello (1)" />
+      <item itemvalue="JUnit.SayHelloTest.fac" />
+      <item itemvalue="Application.Provider" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+        <item itemvalue="Application.Provider" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="JUnit.SayHelloTest.sayHello (1)" />
+        <item itemvalue="JUnit.SayHelloTest.fac" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f1a9ab8-d9e5-4bfa-95cc-7925c3ca1a8c" name="Default" comment="" />
+      <created>1550221249239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550221249239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SayHelloTest_fac - 2019.02.18 at 16h 08m 55s.xml">
+      <configuration name="SayHelloTest.fac" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SayHelloTest_fac - 2019.02.18 at 16h 15m 11s.xml">
+      <configuration name="SayHelloTest.fac" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SayHelloTest_fac - 2019.02.18 at 16h 15m 41s.xml">
+      <configuration name="SayHelloTest.fac" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SayHelloTest_sayHello_(1) - 2019.02.18 at 16h 20m 41s.xml">
+      <configuration name="SayHelloTest.sayHello (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SayHelloTest_sayHello_(1) - 2019.02.18 at 16h 29m 33s.xml">
+      <configuration name="SayHelloTest.sayHello (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SayHelloTest_sayHello_(1) - 2019.02.18 at 16h 29m 46s.xml">
+      <configuration name="SayHelloTest.sayHello (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.02.20 at 21h 49m 30s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.02.20 at 21h 49m 46s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.02.21 at 08h 42m 16s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_shouldAnswerWithTrue - 2019.02.21 at 08h 59m 49s.xml">
+      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3287144" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14932886" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07550336" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.72104406" visible="true" weight="0.10136157" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.27895597" side_tool="true" visible="true" weight="0.10136157" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24961714" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55369127" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.10590015" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16275167" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11085451" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24961714" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2852349" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952693" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3287144" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/remoting/transport/netty4/NettyClient.class</url>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="60" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/remoting/zookeeper/zkclient/ZkclientZookeeperClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/RegistryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/remoting/zookeeper/ZookeeperClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/remoting/zookeeper/support/AbstractZookeeperClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="134" column="5" lean-forward="true" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/Registry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistryFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="111" column="31" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="106" column="25" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/Directory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/Invocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/common/URL.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="602" column="18" selection-start-line="602" selection-start-column="18" selection-end-line="602" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/support/RpcUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/protocol/AbstractInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/common/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/RpcContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="297" column="22" selection-start-line="297" selection-start-column="22" selection-end-line="297" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/RpcResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com-dubbo-learn-service/src/main/java/com/dubbo/learn/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/Cluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/AbstractClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/registry/support/ProviderInvokerWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailsafeCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailbackClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="275" column="6" selection-start-line="275" selection-start-column="6" selection-end-line="275" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="229" column="34" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/BroadcastClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailbackCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailfastCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailsafeClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailfastClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="17" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/ForkingClusterInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="51" column="56" lean-forward="true" selection-start-line="51" selection-start-column="56" selection-end-line="51" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/ForkingCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/BroadcastCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com-dubbo-learn-spi/src/main/java/com/dubbo/learn/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/AbstractLoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/LoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/LeastActiveLoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9155">
+          <caret line="129" column="35" lean-forward="true" selection-start-line="129" selection-start-column="35" selection-end-line="129" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="513" column="63" lean-forward="true" selection-start-line="513" selection-start-column="63" selection-end-line="513" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_121/src.zip!/java/security/MessageDigest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/ConsistentHashLoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/RandomLoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.9/dubbo-2.5.9.jar!/com/alibaba/dubbo/rpc/cluster/loadbalance/RoundRobinLoadBalance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com-dubbo-learn-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:dubbo:2.5.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27242154" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
